@@ -85,7 +85,7 @@
   "dependencies": {
     "jss": "^6.1.0",
     "jss-camel-case": "^3.0.0",
-    "jss-default-unit": "^5.1.0",
+    "jss-default-unit": "^5.0.1",
     "jss-extend": "^2.0.6",
     "jss-nested": "^3.0.1",
     "jss-vendor-prefixer": "^4.0.0",
